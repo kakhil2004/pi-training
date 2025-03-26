@@ -1,0 +1,2 @@
+# pitraining
+Notes for PI
