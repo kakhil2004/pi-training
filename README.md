@@ -1,5 +1,10 @@
 # Safety
 
+# 1 
+Just walk around
+- Hub -> One FE, Eyewash, First Aid, two exits
+- Metal -> Shower, one FE, one FA, one exit
+- Wood -> First Aid, one exit, one FE
 
 ## 2 & 3 Injury + Incident Report 
 - Report anything from tiny paper cut to entire arm gone
@@ -42,3 +47,35 @@ There is a sign that says it next to the machine
 
 ## 14 - Scrap
 If it is bigger than hand and also remove unusable piece so to not waste the other's time
+
+
+# Introductory
+
+## Tool Groups
+- CAE, CAM, CAD
+- 3d Printer
+- Craft Land
+- Bike Stuff
+- Electronics
+- XR
+- Wood
+- Metal 
+- Casting, Welding
+- Water Jet 
+- CNC
+
+# Bands
+- Orange -> Provisional PI
+- Yellow -> Full PI
+- Blue -> Masters
+- Black -> Exec
+- Pink - Studio Helpers
+
+# Paint 
+- Make sure bottom and top locked in 
+- Upside down L shape for how to turn on everything
+- The switches on left and right side are in reverse
+
+## SUMS 
+- Used to track users and for each station you need to check in
+- 
